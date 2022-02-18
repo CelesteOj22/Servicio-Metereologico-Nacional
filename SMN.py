@@ -26,4 +26,4 @@ if response.status_code ==200: #procede si se establece la conexion
 	probabilidad(h,velv,t)
 
 else:
-	print('Conexion fallida! Intente nuevamente')
+	print('Conexion fallida! Intente nuevamente.')
